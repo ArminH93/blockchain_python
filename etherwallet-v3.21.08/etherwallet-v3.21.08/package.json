@@ -4,9 +4,9 @@
     "description": "An NPM dist of MyEtherWallet. For easier downloading & updating via CLI.",
     "author": "MyEtherWallet",
     "license": "ISC",
-    "devDependencies": {
-        "open": "0.0.5"
-    },
+"devDependencies": {
+  "open": ">=6.0.0"
+},
     "bin": {
         "mew": "bin/startMEW.js"
     }
